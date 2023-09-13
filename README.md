@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Instructions for initial setup
+
+After downloading this code from Github,
+
+You need to:
+
+1. Open a command prompt and navigate to the app folder.
+2. Inside the command prompt, run the command "npm install" (this assumes you have npm installed on your computer already, otherwise you need to download and install npm first).
+3. Once all the packages have been downloaded and install, you can run the "npm start" command to open the application.
+
 ## Available Scripts
 
 In the project directory, you can run:
